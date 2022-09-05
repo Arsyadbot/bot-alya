@@ -2,17 +2,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285815975368']
-global.premium = ['6285815975368']
-global.ownername = 'Liya'
-global.botname = 'AliyaBot'
-global.packname = '© by AliyaBot'
+global.owner = ['6283193831650']
+global.premium = ['6283193831650']
+global.ownername = 'Arsyad'
+global.botname = 'AliyaBot2'
+global.packname = '© by AliyaBot2'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
-global.limitawal = '100'
+global.limitawal = '50'
 global.author = '@alya.xzy'
-global.sessionName = 'polo'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = 'terserah'
 global.mess = {
@@ -28,7 +28,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
 global.gambar = 'https://telegra.ph/file/7858fc96fffda74b3ab44.jpg' //disini gambar bot nya lu bisa ganti pink gambar ini dengan link gambar punya lu
 global.sc = fs.readFileSync('./media/sc.jpg')
